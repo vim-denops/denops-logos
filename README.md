@@ -1,3 +1,20 @@
 # denops-logos
 
 This repository holds logo images of [denops.vim](https://github.com/vim-denops/denops.vim).
+
+## 20210403-main
+
+The original author of the logo image is [@hashrock](https://github.com/hashrock) and the right to use the logo [has been entrusted](https://github.com/vim-denops/denops.vim/issues/2#issuecomment-927023822) to the [vim-denops](https://github.com/vim-denops) organization.
+
+![denops logo 1](./20210403-main/denops.png)
+
+The logo is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0).
+
+It is licensed as ND (No Derivatives). However, users are allowed to apply to resize, trimming, or other required transforms as long as they follow the following rules.
+
+1. Never switch the colors
+2. Never rearrange elements of the design
+3. Never stretch or distort the logo
+4. Never alter or add elements to the logo
+
+Additionally, commercial use may be allowed individually. Contact vim-denops members in the `#tech-denops` channel of [vim-jp Slack](https://vim-jp.org/docs/chat.html) in that case.
