@@ -23,13 +23,14 @@ Additionally, commercial use may be allowed individually. Contact vim-denops mem
 
 The original author of these images are [@hashrock](https://github.com/hashrock) and the right to use the logo [has been entrusted](https://github.com/vim-denops/denops.vim/issues/2#issuecomment-927023822) to the [vim-denops](https://github.com/vim-denops) organization.
 
-![denops character](./20211021-extra/denops-cleanup.svg)
+<p><img width=400 src="./20211021-extra/denops-cleanup.png" alt="denops character"></p>
 
-![denops round icon](./20211021-extra/denops-round.svg)
+<p><img width=200 src="./20211021-extra/denops-round.png" alt="denops round icon"></p>
 
-![denops favicon](./20211021-extra/favicon.svg)
+<p><img width=200 src="./20211021-extra/favicon.png" alt="denops favicon"></p>
 
-![denops favicon inverse](./20211021-extra/favicon-inverse.svg)
+<p><img width=200 src="./20211021-extra/favicon-inverse.png" alt="denops favicon inverse"></p>
+
 
 These images are licensed under CC BY-NC-ND 4.0. 
 
