@@ -21,7 +21,7 @@ Additionally, commercial use may be allowed individually. Contact vim-denops mem
 
 ## 20211021-extra
 
-The original author of these images are [@hashrock](https://github.com/hashrock) and the right to use the logo [has been entrusted](https://github.com/vim-denops/denops.vim/issues/2#issuecomment-927023822) to the [vim-denops](https://github.com/vim-denops) organization.
+The original author of these images are [@hashrock](https://github.com/hashrock) and the right to use these images [has been entrusted](https://github.com/vim-denops/denops.vim/issues/2#issuecomment-927023822) to the [vim-denops](https://github.com/vim-denops) organization.
 
 ![denops character](./20211021-extra/denops-cleanup.svg)
 
